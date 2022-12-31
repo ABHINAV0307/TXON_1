@@ -1,4 +1,4 @@
-# landing page 
+# Landing page 
 
 In this task, you will create a landing web
 page using basic HTML, And CSS. This is a
