@@ -8,3 +8,10 @@ grid-template-columns: auto;
     max-width: 100%;
     grid-template-columns: auto;
     }
+.img-responsive2{
+        max-width:85%;
+        grid-template-columns: auto;
+}
+.hero_image{
+    background: url(girl.jpg) no-repeat;
+    background-size: cover;
