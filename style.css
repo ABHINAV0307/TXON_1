@@ -1,0 +1,10 @@
+/*utility classes*/
+.img-responsive{
+max-width: 90%;
+grid-template-columns: auto;
+}
+
+.img-responsive1{
+    max-width: 100%;
+    grid-template-columns: auto;
+    }
