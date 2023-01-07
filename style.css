@@ -40,3 +40,7 @@ margin-right: auto;
 border-radius: 2rem;
 padding: .6rem;
 border: none;
+outline: none;
+}
+.form_code button{
+    width: 40%;
