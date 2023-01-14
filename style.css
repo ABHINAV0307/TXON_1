@@ -55,6 +55,15 @@ outline: none;
     margin-top: 1rem;
     border-radius: 0.5rem;
     border: none;
+outline: none;
+}
+.hero_wrapper {
+    border:2px;
+    background-color: rgba(89, 224, 239, 0.5);
+border-width: 10px;
+padding-top: 3rem;
+padding-left: 3rem;
+padding-bottom:3rem;
      margin-left: 5rem;
      display: inline-block;
      margin-bottom: 1rem;
