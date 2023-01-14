@@ -32,6 +32,7 @@ font-size: 2.4rem;
 text-align: center;
    }
 .form_code{
+    text-align: center;
    }
 .form_code .post_code{
     display:block;
@@ -50,6 +51,10 @@ outline: none;
     margin-right: auto;
     text-align: center;
     background: rgb(25, 213, 227);
+    padding: .6rem;
+    margin-top: 1rem;
+    border-radius: 0.5rem;
+    border: none;
      margin-left: 5rem;
      display: inline-block;
      margin-bottom: 1rem;
